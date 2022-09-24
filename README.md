@@ -1,6 +1,8 @@
 # Android_Ads_Interstitial_onBackPress
 Showing Full Screen Ad on back to main activity
 
+This topic is a part of [My Complete Andorid Course](https://github.com/ananddasani/Android_Apps)
+
 # Code
 
 #### MainActivity.java
@@ -208,8 +210,10 @@ public class SecondActivity extends AppCompatActivity {
 
 # App Highlight
 
-<img src="app_images/Ads Interstitial onBackPress Code.png" width="1000" /><br>
+![Ads Interstitial onBackPress App2](https://user-images.githubusercontent.com/74413402/192094331-87398de8-277d-43e0-b5d7-110fd501a5d5.png)
+![Ads Interstitial onBackPress App3](https://user-images.githubusercontent.com/74413402/192094336-385d8ca3-5965-49c5-bf49-099d99afbc34.png)
+![Ads Interstitial onBackPress App4](https://user-images.githubusercontent.com/74413402/192094338-e2ff13d4-9d81-4bf7-ad53-7a9d999c43bb.png)
+![Ads Interstitial onBackPress App5](https://user-images.githubusercontent.com/74413402/192094340-e2c22f62-a881-4f4a-9107-996d263dd5c4.png)
+![Ads Interstitial onBackPress Code](https://user-images.githubusercontent.com/74413402/192094345-88e2b3e5-e001-422b-8996-06b99f426289.png)
+![Ads Interstitial onBackPress App1](https://user-images.githubusercontent.com/74413402/192094346-f9ddd8ac-eec2-4528-812a-742e5ec4fa18.png)
 
-<img src="app_images/Ads Interstitial onBackPress App1.png" width="300" /> <img src="app_images/Ads Interstitial onBackPress App2.png" width="300" /> <img src="app_images/Ads Interstitial onBackPress App3.png" width="300" /><br>
-
-<img src="app_images/Ads Interstitial onBackPress App4.png" width="300" /> <img src="app_images/Ads Interstitial onBackPress App5.png" width="300" />
